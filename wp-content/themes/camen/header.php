@@ -2,7 +2,7 @@
 /**
  * The header.
  */
-?>
+?>dfdfdfdf
 <!doctype html>
 <html itemscope="" itemtype="http://schema.org/WebPage" <?php language_attributes(); ?>>
 <head>
