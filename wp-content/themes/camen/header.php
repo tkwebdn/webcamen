@@ -2,7 +2,11 @@
 /**
  * The header.
  */
+<<<<<<< HEAD
 ?>change on developegit 4
+=======
+?>change on develope 3
+>>>>>>> c3b4bd98dd754ed9b73ca2302f3a5d71c1f9618f
 <!doctype html>
 <html itemscope="" itemtype="http://schema.org/WebPage" <?php language_attributes(); ?>>
 <head>
